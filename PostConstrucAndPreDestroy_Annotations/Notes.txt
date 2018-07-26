@@ -1,0 +1,2 @@
+BeanSpringFactory given only for compatability
+it will not support pre loading only support lazy loading
